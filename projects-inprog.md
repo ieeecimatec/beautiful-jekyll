@@ -106,3 +106,29 @@ share-img: /assets/img/inprog.jpg
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sem eleifend, convallis nibh id, dignissim nunc. Cras eu dolor ultrices, vestibulum est eu, rhoncus lorem. Ut ac nisi eget nulla lacinia pellentesque vitae eget arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce.    
 </div> 
 </article>
+
+
+<!-- Projeto 4 -->
+<article class="project-preview-left">
+    <a href="https://ieeecimatec.github.io/project-test/">
+      <h2 class="project-title">Projeto Test</h2>      
+    </a>
+    <p class="project-meta project-meta-right">
+        Finalizado em xx de yy
+        <a href="https://ieeecimatec.github.io/capitulo-PES/"><img src="{{ 'assets/img/pes_logo.png' | relative_url }}" width="30" hspace="5" class="img-zoom25"></a>
+        <a href="https://ieeecimatec.github.io/capitulo-EMBS/"><img src="{{ 'assets/img/embs_logo.png' | relative_url }}" width="30" hspace="5" class="img-zoom25"></a>
+    </p>
+    <div class="project-image project-image-small">
+      <a href="https://ieeecimatec.github.io/project-test/">
+        <img src="{{ 'assets/img/voluntarios/semfoto.png' | relative_url }}" alt="project thumbnail" class="img-blur">
+      </a>
+    </div>
+    <div class="project-image project-image-short">
+      <a href="https://ieeecimatec.github.io/project-test/">
+        <img src="{{ 'assets/img/voluntarios/semfoto.png' | relative_url }}" alt="project thumbnail" class="img-blur">
+      </a>
+    </div>
+    <div class="project-entry">
+      **Projeto de Teste** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sem eleifend, convallis nibh id, dignissim nunc. Cras eu dolor ultrices, vestibulum est eu, rhoncus lorem. Ut ac nisi eget nulla lacinia pellentesque vitae eget arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+</div> 
+</article>

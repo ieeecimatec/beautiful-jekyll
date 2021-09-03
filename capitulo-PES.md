@@ -14,6 +14,7 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
 - [BayIEEEmax](https://ieeecimatec.github.io/project-bayieeemax/)
 - [TrackIEEErs](https://ieeecimatec.github.io/project-trackieeers/)
 - [Smart Energy](https://ieeecimatec.github.io/project-smart_energy/)
+- [Projeto Test](https://ieeecimatec.github.io/project-test/)
 
 [<img src="/assets/img/logo_instagram.png" alt="drawing" width="25"/> **@ieeepescimatec**](https://www.instagram.com/ieeepescimatec/)
 

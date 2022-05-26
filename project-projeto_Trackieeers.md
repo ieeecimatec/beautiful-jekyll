@@ -19,11 +19,10 @@ O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de ger
           <tr>
             <th><center><img src="{{ 'assets/img/voluntarios/Arley_Matos.png' | relative_url }}" width="100" alt="Arley" class="img-fluid rounded-circle" /></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/Felipe_PES.jpg' | relative_url }}" width="100" alt="Felipe" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/Felipe_PES.jpeg' | relative_url }}" width="100" alt="Felipe" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/João Gabriel.jpeg' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="João Henrique" class="img-fluid rounded-circle"/></center></th>
           </tr>
         </thead>
         <tbody>
@@ -33,13 +32,9 @@ O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de ger
             <td width="25%"><center>Felipe</center></td>
             <td></td>
             <td width="25%"><center>João Gabriel</center></td>
-            <td></td>
-            <td width="25%"><center>João Henrique</center></td>
           </tr>
           <tr style="text-align: center" >
             <td style="vertical-align: top"><small><center>Voluntário desde 2021 <p/> Líder do projeto</center></small></td>
-            <td></td>
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
             <td></td>
             <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
             <td></td>

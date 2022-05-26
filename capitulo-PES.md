@@ -7,7 +7,7 @@ cover-img: /assets/img/pes_cover.jpg
 
 <p style="text-align: center;"> <img src="/assets/img/pes.png" alt="drawing" width="250"/> </p>
 
-A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade Técnica do IEEE voltada à área de Potência e Energia. Nosso Capítulo Estudantil PES CIMATEC foi fundado em 1 de dezembro de 2017, e além da realização de projetos relacionados à essa área, organizamos workshops e promovemos visitas técnicas a Usinas Hidrelétricas, Usinas Solares, Museus e outros.
+A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) (Power and Energy Society) é a sociedade técnica voltada à área de potência e energia, sendo o expoente em promover artigos, fóruns, etc, no desenvolvimento tecnológico em potência elétrica industrial; normas e padrões que guiam o desenvolvimento e construção de equipamentos e sistemas. Nosso Capítulo Estudantil PES CIMATEC foi fundado em 1 de dezembro de 2017, com o objetivo de realizar projetos na eletromobilidade, renováveis, eletrônica, automação residencial, circuitos, micro-grid e muito mais.E por fim, organizamos workshops e promovemos visitas técnicas a Usinas Hidrelétricas, Usinas Solares, Museus e outros que são de grande importância para sua carreira profissional.
 
 #### Projetos
 - [RES](https://ieeecimatec.github.io/project-res/)
@@ -26,8 +26,8 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
         <thead>
           <tr>
           > PARTE DE CIMA DA DIRETORIA
-          >> Kroetz - Conselheiro
-            <th><center><img src="{{ 'assets/img/voluntarios/guilherme_kroetz.png' | relative_url }}" width="100" alt="kroetz" class="img-fluid rounded-circle" /></center></th>
+          >> Paulo Andrade - Conselheiro
+            <th><center><img src="{{ 'assets/img/voluntarios/Paulo Andrade.jpg' | relative_url }}" width="100" alt="kroetz" class="img-fluid rounded-circle" /></center></th>
             <th></th>
           >> Ruan Utah - Presidente
             <th><center><img src="{{ 'assets/img/voluntarios/ruan_utah.png' | relative_url }}" width="100" alt="ruan" class="img-fluid rounded-circle"/></center></th>
@@ -38,7 +38,7 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
         </thead>
         <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
-            <td width="20%"><center>Guilherme Kroetz</center></td>
+            <td width="20%"><center>Paulo Andrade</center></td>
             <td></td>
             <td width="20%"><center>Ruan Utah</center></td>
             <td></td>
@@ -52,14 +52,14 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
             <td style="vertical-align: top"><small><center>Vice-Presidente</center></small></td>
           </tr>
           <tr style="text-align: center" >
-            <td style="vertical-align: top"><small><center>guilherme.kroetz@fieb.org.br</center></small></td>
+            <td style="vertical-align: top"><small><center></center></small></td>
             <td></td>
             <td style="vertical-align: top"><small><center>ruanutah@ieee.org</center></small></td>
             <td></td>
             <td style="vertical-align: top"><small><center>Julia.ribeiro@aln.senaicimatec.edu.br</center></small></td>
           </tr>
           <tr style="text-align: center" >
-            <td style="vertical-align: top"><small><center>-</center></small></td>
+            <td style="vertical-align: top"><small><center>(71) 9 8644-6245</center></small></td>
             <td></td>
             <td style="vertical-align: top"><small><center>(75) 9 8148-6272</center></small></td>
             <td></td>
@@ -70,7 +70,7 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
           <tr>
           > PARTE DE BAIXO DA DIRETORIA
           >> João Gabriel - Secretário
-            <th><center><img src="{{ 'assets/img/voluntarios/João_Gabriel.png' | relative_url }}" width="100" alt="Joao G" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/João Gabriel.jpeg' | relative_url }}" width="100" alt="Joao G" class="img-fluid rounded-circle"/></center></th>
             <th></th>
           >> Ygor Vieira - Tesoureiro
             <th><center><img src="{{ 'assets/img/voluntarios/ygor_vieira.jpeg' | relative_url }}" width="100" alt="ygor" class="img-fluid rounded-circle"/></center></th>
